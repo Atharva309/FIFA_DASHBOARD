@@ -3,7 +3,7 @@
 ## Overview
 This Power BI dashboard provides an interactive, data-driven visualization of FIFA 2020 player statistics. The dashboard consists of three pages, each offering unique insights into players, teams, and their performance. Users can explore detailed player info, analyze various stats, and even compare two players head-to-head.
 
-You can view the dashboard [here](https://app.powerbi.com/viewr=eyJrIjoiZWE0OTg0MDAtNzQzYi00ZjgzLWE3N2EtMzMxNDAyM2U2Y2Q1IiwidCI6ImQxZjE0MzQ4LWYxYjUtNGEwOS1hYzk5LTdlYmYyMTNjYmM4MSIsImMiOjEwfQ%3D%3D)
+You can view the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiZWE0OTg0MDAtNzQzYi00ZjgzLWE3N2EtMzMxNDAyM2U2Y2Q1IiwidCI6ImQxZjE0MzQ4LWYxYjUtNGEwOS1hYzk5LTdlYmYyMTNjYmM4MSIsImMiOjEwfQ%3D%3D)
 
 ## Pages
 
