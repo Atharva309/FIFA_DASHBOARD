@@ -11,15 +11,34 @@ This Power BI dashboard provides an interactive, data-driven visualization of FI
    - Shows the player’s **nationality on a globe map** and their **net worth**.
    - Users can select players through **club and player slicers**.
 
+<p align="center">
+  <img src="Images/1.png" title="1" width="800" height="auto" />
+</p>
+
+<p align="center">
+  <img src="Images/2.png" title="2" width="800" height="auto" />
+</p>
+
+
 ### 2. **Analysis Page**
    - Provides **graphs and analysis** for players and teams.
    - Visualizes **positions vs. various stats** and **teams vs. goals** through bar charts, column charts, and more.
    - Analyzes player performance across different metrics to provide insights.
 
+<p align="center">
+  <img src="Images/3.png" title="3" width="800" height="auto" />
+</p>
+
+
 ### 3. **Player Comparison Page**
    - Enables **side-by-side comparison** of two players.
    - Displays **bar graphs** comparing key stats like speed, defense, shooting, passing, etc.
    - Shows additional info such as **player positions, strong foot**, and other key attributes.
+
+<p align="center">
+  <img src="Images/4.png" title="4" width="800" height="auto" />
+</p>
+
 
 ## Features
 - **Interactive Slicers**: Filter the dashboard by club, player, or other attributes.
